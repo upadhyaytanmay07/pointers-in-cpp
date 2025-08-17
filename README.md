@@ -52,7 +52,7 @@ Pointer Safety
     Check for nullptr before dereferencing
     
     Avoid dangling pointers (pointers to deleted memory)
-3. Practical Applications
+# 3. Practical Applications
 
         String Manipulation: Pointers efficiently traverse C-style strings
     
@@ -62,7 +62,7 @@ Pointer Safety
     
         Hardware Access: Used in embedded systems programming
 
-4. Common Pitfalls
+# 4. Common Pitfalls
 
        Memory leaks (forgetting delete)
     
