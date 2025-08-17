@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    char a[6]="tenet";
+    char a[6]="madam";
     char *aptr=&a[0];
     char *aptr1=&a[4];
     int count=0;
